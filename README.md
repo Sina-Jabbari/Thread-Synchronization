@@ -1,2 +1,2 @@
 # Thread-Synchronization
-Operating Systems (COE 608) lab 6.
+Operating Systems (COE 628) lab 6.
